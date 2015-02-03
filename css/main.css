@@ -1,12 +1,16 @@
 body {
 	background-color: gray;
-	background-image:url('images/background.jpg');
 	background-attachment:fixed;
 	background-size:cover;
 	background-repeat: no-repeat;
 	font-size:16px;
 	font-family: arial, helvetica, sans-serif;
 
+}
+section#splash{
+	background-image: url(images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 section#eev {
 	height:100vh;
