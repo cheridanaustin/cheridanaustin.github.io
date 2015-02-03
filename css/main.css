@@ -1,9 +1,17 @@
 body {
 	background-color: gray;
 	background-image:url('images/background.jpg');
-	background-attachment:fixed
-	background-size: cover;
-	background-repeat: no-repeat; 
-	color:white;
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat: no-repeat;
+	font-size:16px;
+	font-family: arial, helvetica, sans-serif;
 
+}
+section#eev {
+	height:100vh;
+	background:rgba(0,0,0,.6);
+}
+section#contact {
+	text-decoration: none;
 }
