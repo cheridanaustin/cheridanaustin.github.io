@@ -1,8 +1,11 @@
 body {
 	background-color: gray;
 	background-image:url('images/background.jpg');
-	background-size:80px 60px;
+	background-size:cover;
 	background-repeat: no-repeat; 
 	color:white;
 
+}
+section#splash {
+	height:74vh;
 }
