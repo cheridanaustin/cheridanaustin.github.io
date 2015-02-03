@@ -1,11 +1,13 @@
 body {
 	background-color: gray;
 	background-image:url('images/background.jpg');
-	background-size:cover;
+	background-attachment:fixed
+	background-size: cover;
 	background-repeat: no-repeat; 
 	color:white;
 
 }
 section#splash {
-	height:74vh;
+	height:75vh;
+	padding:400px 0 0 200px;
 }
