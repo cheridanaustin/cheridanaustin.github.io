@@ -1,4 +1,8 @@
 body {
-	background-color:gray;
+	background-color:(0,0,0,.2);
+	background-image:url('images/background.jpg');
+	background-size:cover;
+	background-repeat: no-repeat; 
 	color:white;
+
 }
