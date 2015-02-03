@@ -1,14 +1,12 @@
 body {
 	background-color: gray;
 	background-attachment:fixed;
-	background-size:cover;
 	background-repeat: no-repeat;
 	font-size:16px;
 	font-family: arial, helvetica, sans-serif;
 
 }
-section#splash{
-	background-image: url(images/background.jpg);
+section#splash {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
