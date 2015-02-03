@@ -12,9 +12,11 @@ section#splash {
 	background-size: cover;
 }
 section#eev {
+	background-color:#8383AC;
 	height:100vh;
 	background:rgba(0,0,0,.6);
 }
 section#contact {
 	text-decoration: none;
+	background-color:white;
 }
