@@ -13,7 +13,7 @@ body {
 section#splash {
 	height:50vh;
 	margin: 250px 75px 75px;
-	background-color: rgba(128,128,128,.2);
+	background-color: rgba(128,128,128,.7);
 }
 section#maincontent {
 	background:rgba(128,128,128,.7);
