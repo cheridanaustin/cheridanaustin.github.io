@@ -12,7 +12,7 @@ body {
 }
 section#splash {
 	height:100vh;
-	margin:200;padding:5;
+	margin:200;padding:5;box-sizing:border-box;
 }
 section#maincontent {
 	background:;
