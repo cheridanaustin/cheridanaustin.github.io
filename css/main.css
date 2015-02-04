@@ -12,7 +12,8 @@ body {
 }
 section#splash {
 	height:100vh;
-	margin: 25px 50px 75px;
+	margin: 250px 75px 75px;
+	background-color: white;
 }
 section#maincontent {
 	background:;
