@@ -22,12 +22,12 @@ section#maincontent {
 .eev {
 	background:rgba(128,128,128,.7);
 	color:white;
-	padding:250px;
+	padding:50px;
 
 }
 section#contact {
 	background-color:rgba(0,0,0,.6);
-	padding:250px;
+	padding:50px;
 }
 section#contact a {
 	text-decoration: none;
