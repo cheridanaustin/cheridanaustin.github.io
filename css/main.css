@@ -22,6 +22,7 @@ section#maincontent {
 	background:rgba(128,128,128,.7);
 	margin:50px;
 	color:white
+	padding:50;
 }
 section#contact {
 	background-color:rgba(0,0,0,.6);
