@@ -8,13 +8,13 @@ body {
 	background-position:bottom;
 	font-size:16px;
 	font-family: arial, helvetica, sans-serif;
-	margin: 100px 75px 75px;
-	padding:250px;
+	
 }
 section#splash {
 	height:50vh;
 	background-color: rgba(128,128,128,.8);
-
+	margin: 100px 75px 75px;
+	padding:250px;
 }
 section#maincontent {
 	
