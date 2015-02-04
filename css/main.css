@@ -12,14 +12,16 @@ body {
 }
 section#splash {
 	height:50vh;
-	margin: 250px 75px 75px;
-	background-color: rgba(128,128,128,.7);
+	margin: 100px 75px 75px;
+	background-color: rgba(128,128,128,.8);
 }
 section#maincontent {
 	background:rgba(128,128,128,.7);
 }
 .eev {
 	background:rgba(0,0,0,.6);
+	margin:50px;
+	font-color:white
 }
 section#contact {
 	background-color:rgba(0,0,0,.6);
