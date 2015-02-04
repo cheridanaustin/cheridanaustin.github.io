@@ -1,6 +1,6 @@
 body {
 	background-color: gray;
-	background-image:url('images/background.jpg');
+	background-image:url('../images/background.jpg');
 	background-attachment:fixed;
 	background-repeat: no-repeat;
 	font-size:16px;
@@ -8,8 +8,6 @@ body {
 
 }
 section#splash {
-	background-repeat: no-repeat;
-	background-size: cover;
 }
 section#eev {
 	background-color:#8383AC;
@@ -17,6 +15,8 @@ section#eev {
 	background:rgba(0,0,0,.6);
 }
 section#contact {
-	text-decoration: none;
 	background-color:white;
+}
+section#contact a {
+	text-decoration: none;
 }
