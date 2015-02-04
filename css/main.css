@@ -10,10 +10,12 @@ body {
 
 }
 section#splash {
-}
-section#eev {
-	background-color:#8383AC;
 	height:100vh;
+}
+section#maincontent {
+	background:;
+}
+.eev {
 	background:rgba(0,0,0,.6);
 }
 section#contact {
