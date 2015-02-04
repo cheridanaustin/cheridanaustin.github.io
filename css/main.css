@@ -12,6 +12,7 @@ body {
 }
 section#splash {
 	height:100vh;
+	margin:200;padding:5;
 }
 section#maincontent {
 	background:;
