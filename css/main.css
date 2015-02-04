@@ -19,9 +19,9 @@ section#maincontent {
 	background:rgba(128,128,128,.7);
 }
 .eev {
-	background:rgba(0,0,0,.6);
+	background:rgba(128,128,128,.7);
 	margin:50px;
-	font-color:white
+	color:white
 }
 section#contact {
 	background-color:rgba(0,0,0,.6);
