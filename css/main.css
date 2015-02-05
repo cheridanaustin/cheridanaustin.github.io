@@ -1,22 +1,42 @@
+* { margin:0;padding:0;box-sizing:border-box; }
 body {
 	background-color: gray;
-	background-image:url('images/background.jpg');
+	background-image:url('../images/background.jpg');
 	background-attachment:fixed;
 	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:bottom;
 	font-size:16px;
-	font-family: arial, helvetica, sans-serif;
-
+	font-family: 'Arial Narrow', sans-serif;
+	
+}
+h1, h2{
+	font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+	font-weight: 200;
 }
 section#splash {
-	background-repeat: no-repeat;
-	background-size: cover;
+	height:50vh;
+	background-color: rgba(128,128,128,.8);
+	margin: 100px 75px 75px;
+	padding:250px;
 }
-section#eev {
-	background-color:#8383AC;
-	height:100vh;
-	background:rgba(0,0,0,.6);
+section#maincontent {
+	
+}
+.eev {
+	background:rgba(128,128,128,.7);
+	color:white;
+	padding:50px;
+
 }
 section#contact {
+	background-color:rgba(0,0,0,.6);
+	padding:50px;
+}
+section#contact a {
 	text-decoration: none;
-	background-color:white;
+}
+section#contact {
+	color:white;
+	padding:10px;
 }
