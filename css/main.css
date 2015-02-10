@@ -7,12 +7,13 @@ body {
 	background-repeat: no-repeat;
 	background-size:cover;
 	background-position:bottom;
-	font-size:16px;
-	font-family: 'Esteban', serif;
+	font-size:18px;
+	font-family: 'Josefin Sans', sans-serif;
+	
 	
 }
 h1, h2{
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Esteban', serif;
 	font-weight: 200;
 	line-height: 1.5em;
 	margin: 2em;
