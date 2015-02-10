@@ -1,4 +1,5 @@
 * { margin:0;padding:0;box-sizing:border-box; }
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans|Esteban);
 body {
 	background-color: gray;
 	background-image:url('../images/background.jpg');
@@ -7,12 +8,14 @@ body {
 	background-size:cover;
 	background-position:bottom;
 	font-size:16px;
-	font-family: 'Arial Narrow', sans-serif;
+	font-family: 'Esteban', serif;
 	
 }
 h1, h2{
-	font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 	font-weight: 200;
+	line-height: 1.5em;
+	margin: 2em;
 }
 section#splash {
 	height:50vh;
