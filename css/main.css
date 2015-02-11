@@ -26,7 +26,7 @@ section#splash {
 	color: white;
 	height:50vh;
 	margin: .5em 0 ;
-	padding:250px;
+	padding: 50px;
 }
 section#maincontent {
 	
@@ -34,10 +34,10 @@ section#maincontent {
 .eev {
 	background:rgba(128,128,128,.7);
 	color:white;
-	margin-left: 1em 0;
+	margin-left: 1em;
 	float: left;
 	width: 33.33%;
-	padding: 1em;
+	padding: 2em;
 
 }
 section#contact {
