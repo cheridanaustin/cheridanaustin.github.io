@@ -37,6 +37,7 @@ section#maincontent {
 	margin-left: 1em;
 	float: left;
 	width: 33.33%;
+	padding: 25px;
 }
 section#contact {
 	background-color:rgba(0,0,0,.6);
