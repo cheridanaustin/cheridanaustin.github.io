@@ -24,7 +24,7 @@ ul{
 section#splash {
 	font-size: 34px;
 	color: white;
-	height:50vh;
+	height:50 vh;
 	margin: .5em 0 ;
 	padding: 25px;
 }
@@ -37,8 +37,6 @@ section#maincontent {
 	margin-left: 1em;
 	float: left;
 	width: 33.33%;
-	padding: 2em;
-
 }
 section#contact {
 	background-color:rgba(0,0,0,.6);
