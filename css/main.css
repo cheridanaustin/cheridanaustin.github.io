@@ -9,6 +9,7 @@ body {
 	background-position:bottom;
 	font-size:18px;
 	font-family: 'Josefin Sans', sans-serif;
+	background:rgba(128,128,128,.7);
 	
 	
 }
@@ -22,7 +23,7 @@ ul{
 	margin: 1.5em 0; 
 }
 section#splash {
-	font-size: 34px;
+	font-size: 3em;
 	color: white;
 	height:50 vh;
 	margin: .5em 0 ;
