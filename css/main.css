@@ -16,12 +16,12 @@ h1, h2{
 	font-family: 'Esteban', serif;
 	font-weight: 200;
 	line-height: 1.5em;
-	margin: 2em;
+	margin: .5em 0 ;
 }
 section#splash {
 	height:50vh;
 	background-color: rgba(128,128,128,.8);
-	margin: 50px 0px;
+	margin: .5em 0 ;
 	padding:250px;
 }
 section#maincontent {
@@ -30,7 +30,8 @@ section#maincontent {
 .eev {
 	background:rgba(128,128,128,.7);
 	color:white;
-	padding:50px;
+	margin-left: 1.5em 0;
+	float: left;
 
 }
 section#contact {
@@ -43,4 +44,5 @@ section#contact a {
 section#contact {
 	color:white;
 	padding:10px;
+	clear: both;
 }
