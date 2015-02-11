@@ -32,10 +32,10 @@ section#maincontent {
 .eev {
 	background:rgba(128,128,128,.7);
 	color:white;
-	margin-left: 1em;
+	margin-left: 1em 0;
 	float: left;
 	width: 33.33%;
-	padding: 0em;
+	padding: 1em;
 }
 section#contact {
 	background-color:rgba(0,0,0,.6);
