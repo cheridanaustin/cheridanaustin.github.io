@@ -16,7 +16,10 @@ h1, h2{
 	font-family: 'Esteban', serif;
 	font-weight: 200;
 	line-height: 1.5em;
-	margin: .5em 0 ;
+	margin: .5em 0;
+}
+ul{
+	margin: .5em 0; 
 }
 section#splash {
 	height:50vh;
