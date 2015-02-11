@@ -22,6 +22,8 @@ ul{
 	margin: 1.5em 0; 
 }
 section#splash {
+	font-size: 34px;
+	color: white;
 	height:50vh;
 	margin: .5em 0 ;
 	padding:250px;
