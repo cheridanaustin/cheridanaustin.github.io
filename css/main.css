@@ -17,7 +17,7 @@ h1, h2{
 	margin: .5em 0;
 }
 ul{
-	margin: 1.5em 0; 
+	margin-left: 1.5em 0; 
 }
 section#splash {
 	font-size: 3em;
@@ -46,4 +46,11 @@ section#contact {
 }
 section#contact a {
 	text-decoration: none;
+}
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
 }
