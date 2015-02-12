@@ -40,12 +40,10 @@ section#maincontent {
 section#contact {
 	background-color:rgba(0,0,0,.6);
 	padding:50px;
-}
-section#contact a {
-	text-decoration: none;
-}
-section#contact {
 	color:white;
 	padding:10px;
 	clear: both;
+}
+section#contact a {
+	text-decoration: none;
 }
