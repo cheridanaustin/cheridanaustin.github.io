@@ -40,7 +40,7 @@ section#maincontent {
 section#contact {
 	background-color:rgba(0,0,0,.6);
 	color:white;
-	padding:10px;
+	padding:1em;
 }
 section#contact a {
 	text-decoration: none;
