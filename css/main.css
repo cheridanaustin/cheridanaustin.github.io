@@ -41,6 +41,7 @@ section#contact {
 	background-color:rgba(0,0,0,.6);
 	color:white;
 	padding:1em;
+	clear:both;
 }
 section#contact a {
 	text-decoration: none;
