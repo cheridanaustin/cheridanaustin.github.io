@@ -17,7 +17,7 @@ h1, h2{
 	margin: .5em 0;
 }
 ul{
-	margin: 1em 0; 
+	margin: 1em; 
 }
 section#splash {
 	font-size: 3em;
@@ -39,7 +39,6 @@ section#maincontent {
 }
 section#contact {
 	background-color:rgba(0,0,0,.6);
-	padding:50px;
 	color:white;
 	padding:10px;
 }
