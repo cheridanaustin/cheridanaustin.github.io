@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster|Oswald:400,300);
+* { margin:0;padding:0;box-sizing:border-box; }
 body {
 	background-image:url('../images/background.jpg');
 	background-attachment:fixed;
@@ -12,6 +13,7 @@ body {
 h1{
 	font-family: 'Lobster', cursive;
 	font-size: 1.5em;
+	font-weight: 300;
 
 }
 p{
@@ -36,6 +38,7 @@ span{
 .texty {
 	clear:both;
 	font-weight:300;
+	width:100%;
 }
 .clearfix:after { 
    content: "."; 
