@@ -6,6 +6,7 @@ body {
 	background-size:cover;
 	background-position:bottom;
 	font-size:18px;
+	color:white;
 	font-family: 'Oswald', sans-serif;
 }
 h1{
@@ -14,4 +15,22 @@ h1{
 }
 p{
 	font-family: font-family: 'Oswald', sans-serif;
+}
+.location{
+	width:25%;
+	float: left;
+}
+.pizza {
+	float:left;
+	width:75%;
+}
+.texty {
+	clear:both;
+}
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
 }
