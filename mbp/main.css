@@ -16,9 +16,13 @@ h1{
 p{
 	font-family: font-family: 'Oswald', sans-serif;
 }
+.location{
+	width:25%;
+	float: left;
+}
 .pizza {
 	float:left;
-
+	width:75%;
 }
 .texty {
 	clear:both;
