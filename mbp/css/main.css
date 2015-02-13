@@ -18,6 +18,7 @@ h1{
 }
 p{
 	font-family: font-family: 'Oswald', sans-serif;
+	line-height: 1.25em;
 }
 ul{
   list-style:none; 
@@ -35,11 +36,14 @@ section#splash {
 	margin: .5em 0 ;
 	padding: 25px;
 }
+section#maincontent {
+	margin: .5em 0 ;
+	padding: 25px;
+}
 .location{
 	width:25%;
 	float: left;
-	margin: .5em 0 ;
-	padding: 25px;
+
 }
 .pizza {
 	float:left;
