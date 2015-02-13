@@ -43,7 +43,6 @@ section#maincontent {
 .location{
 	width:25%;
 	float: left;
-
 }
 .pizza {
 	float:left;
@@ -53,7 +52,6 @@ section#maincontent {
 	clear:both;
 	font-weight:300;
 	width:100%;
-	padding:25px;
 }
 .clearfix:after { 
    content: "."; 
