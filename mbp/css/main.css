@@ -54,7 +54,6 @@ section#maincontent {
 	font-weight:300;
 	width:100%;
 	padding:25px;
-	font-family: font-family: 'Arial', sans-serif;
 }
 .clearfix:after { 
    content: "."; 
