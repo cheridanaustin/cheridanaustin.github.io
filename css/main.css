@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Josefin+Sans|Esteban);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans|Quando);
 * { margin:0;padding:0;box-sizing:border-box; }
 body {
 	background-color: gray;
@@ -11,7 +11,7 @@ body {
 	font-family: 'Josefin Sans', sans-serif;
 }
 h1, h2{
-	font-family: 'Esteban', serif;
+	font-family: 'Quando', serif;
 	font-weight: 200;
 	line-height: 1.5em;
 	margin: .5em 0;
