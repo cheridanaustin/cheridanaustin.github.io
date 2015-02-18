@@ -37,6 +37,12 @@ ul{
 span{
 	font-weight: 300;
 }
+div{
+	float:left;
+}
+img{
+	float:right;
+}
 section#splash {
 	font-size: 3em;
 	font-weight: 300;
@@ -52,9 +58,6 @@ section#maincontent {
 }
 section#footer {
 	font-size:.75em;
-}
-.location{
-	float: right;
 }
 .texty {
 	clear:both;
