@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Lobster|Oswald:400,300);
+@import url(http://fonts.googleapis.com/css?family=Lobster|Oswald:400,300,200);
 * { margin:0;padding:0;box-sizing:border-box; }
 body {
 	background-image:url('../images/background.jpg');
@@ -9,7 +9,7 @@ body {
 	font-size:18px;
 	color:white;
 	font-family: 'Oswald', sans-serif;
-	font-weight: 250;
+	font-weight: 200;
 }
 h1{
 	font-family: 'Lobster', cursive;
