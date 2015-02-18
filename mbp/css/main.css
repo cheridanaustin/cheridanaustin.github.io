@@ -50,6 +50,9 @@ section#maincontent {
 	padding: 25px;
 	width: 1200px;
 }
+section#footer {
+	font-size:.75em;
+}
 .location{
 	float: left;
 }
