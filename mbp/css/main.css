@@ -47,6 +47,7 @@ section#splash {
 section#maincontent {
 	margin: .5em 0 ;
 	padding: 25px;
+	width: 1200px;
 }
 .location{
 	width:25%;
