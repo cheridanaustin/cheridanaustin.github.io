@@ -27,6 +27,7 @@ p{
 	font-family: font-family: 'Oswald', sans-serif;
 	line-height: 1.25em;
 	margin-bottom: 1em;
+	text-align: justify;
 }
 ul{
   list-style:none; 
@@ -50,12 +51,7 @@ section#maincontent {
 	width: 1200px;
 }
 .location{
-	width:25%;
-	float: left;
-}
-.pizza {
-	float:left;
-	width:75%;
+	float: right;
 }
 .texty {
 	clear:both;
