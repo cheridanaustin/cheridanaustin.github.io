@@ -24,6 +24,25 @@ nav{
 	font-family: 'Oswald',sans-serif;
 	font-size: .75em
 }
+a{
+	color: white;
+	text-decoration: none;
+	text-decoration: none;
+  	display: block;
+  	float: right;
+  	padding: 20px;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
+}
+a:hover {
+	background-color: gray;
+}
 section#splash {
 	font-size: 3em;
 	color: white;
