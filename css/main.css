@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Quando|Roboto);
+@import url(http://fonts.googleapis.com/css?family=Quando|Oswald:400,300,200);
 * { margin:0;padding:0;box-sizing:border-box; }
 body {
 	background-color: gray;
@@ -8,7 +8,7 @@ body {
 	background-size:cover;
 	background-position:bottom;
 	font-size:18px;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Oswald', sans-serif;
 }
 h1, h2{
 	font-family: 'Quando', serif;
@@ -19,6 +19,10 @@ h1, h2{
 ul{
 	margin: 1em; 
 	list-style:none; 
+}
+nav{
+	font-family: 'Oswald',sans-serif;
+	font-size: .75em
 }
 section#splash {
 	font-size: 3em;
