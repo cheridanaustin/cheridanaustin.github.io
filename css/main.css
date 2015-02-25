@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Quando|Oswald:300,200);
+@import url(http://fonts.googleapis.com/css?family=Quando|Oswald:300,200); @import url(http://fonts.googleapis.com/css?family=News+Cycle);
 * { margin:0;padding:0;box-sizing:border-box; }
 body {
 	background-color: #ffffff;
@@ -16,6 +16,9 @@ h1, h2{
 ul{
 	margin: 1em; 
 	list-style:none; 
+}
+li {
+	font-family: 'News Cycle', sans-serif;
 }
 nav{
 	font-family: 'Oswald',sans-serif;
