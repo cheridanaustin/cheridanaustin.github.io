@@ -4,7 +4,7 @@ body {
 	background-color: #ffffff;
 	color: #666666;
 	font-size:16px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'News Cycle', sans-serif;
 }
 h1, h2{
 	font-family: 'Quando', serif;
@@ -22,7 +22,7 @@ li {
 	font-size: 1.25em;
 }
 nav{
-	font-family: 'Oswald',sans-serif;
+	font-family: 'News Cycle',sans-serif;
 	font-size: 1.25em
 }
 a{
