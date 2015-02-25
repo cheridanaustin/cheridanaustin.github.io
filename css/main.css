@@ -21,20 +21,11 @@ nav{
 	font-size: .75em
 }
 a{
-	color: white;
-	text-decoration: none;
+	color: #666666;
 	text-decoration: none;
   	display: block;
   	float: right;
-  	padding: 20px;
-}
-.clearfix:after {
-  visibility: hidden;
-  display: block;
-  content: " ";
-  clear: both;
-  height: 0;
-  font-size: 0;
+  	padding: .5em 1em;
 }
 a:hover {
 	background-color: gray;
@@ -44,9 +35,6 @@ section#header {
 	color: #666666;
 	height:50vh;
 	margin: .5em auto;
-}
-section#maincontent {
-	
 }
 .eev {
 	background:rgba(128,128,128,.7);
