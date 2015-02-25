@@ -13,7 +13,7 @@ body {
 }
 
 nav{
-	font-size: 1.25em
+	font-size: 1.25em;
 	float:right;
 }
 a{
@@ -64,7 +64,7 @@ section#splash {
 }
 #maincontent {
 	float:none;
-	margin: .5em 0 ;
+	margin: .5em auto;
 	padding: 25px;
 	max-width: 1200px;
 }
