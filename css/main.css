@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Quando|Oswald:300,200);
 * { margin:0;padding:0;box-sizing:border-box; }
 body {
-	background-color: white;
+	background-color: #ffffff;
 	color: #666666;
 	font-size:16px;
 	font-family: 'Oswald', sans-serif;
@@ -28,13 +28,20 @@ a{
   	padding: .5em 1em;
 }
 a:hover {
-	background-color: gray;
+	background-color: #6666666;
+	color: #ffffff;
 }
 section#header {
 	font-size: 1em;
 	color: #666666;
 	height:50vh;
 	margin: .5em auto;
+}
+#maincontent {
+	float:none;
+	margin: .5em auto;
+	padding: 25px;
+	max-width: 1200px;
 }
 .eev {
 	background:rgba(128,128,128,.7);
