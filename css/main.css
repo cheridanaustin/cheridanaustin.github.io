@@ -18,7 +18,7 @@ ul{
 }
 nav{
 	font-family: 'Oswald',sans-serif;
-	font-size: .75em
+	font-size: 1.25em
 }
 a{
 	color: #666666;
@@ -44,21 +44,12 @@ section#header {
 	max-width: 1200px;
 }
 .eev {
-	background:rgba(128,128,128,.7);
-	color:white;
+	background:#ffffff;
+	color: #666666;
 	margin-left: 1em 0;
 	float: left;
 	width: 33.33%;
 	padding: 1em;
-}
-section#contact {
-	background-color:rgba(0,0,0,.6);
-	color:white;
-	padding:1em;
-	clear:both;
-}
-section#contact a {
-	text-decoration: none;
 }
 .clearfix:after { 
    content: "."; 
