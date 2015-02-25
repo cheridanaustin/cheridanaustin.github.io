@@ -39,12 +39,11 @@ a{
 a:hover {
 	background-color: gray;
 }
-section#splash {
-	font-size: 3em;
-	color: white;
+section#header {
+	font-size: 1em;
+	color: #666666;
 	height:50vh;
-	margin: .5em 0 ;
-	padding: 25px;
+	margin: .5em auto;
 }
 section#maincontent {
 	
