@@ -24,23 +24,27 @@ li {
 nav{
 	font-family: 'News Cycle',sans-serif;
 	font-size: 1.25em
+	float:right;
 }
-a{
+nav a{
 	color: #666666;
 	text-decoration: none;
   	display: block;
-  	float: right;
+  	float: left;
   	padding: .5em 1em;
 }
-a:hover {
+nav a:hover {
 	background-color: #666666;
 	color: #ffffff;
 }
-section#header {
+header {
 	font-size: 1em;
 	color: #666666;
 	height:50vh;
 	margin: .5em auto;
+}
+header>div {
+	float:left;
 }
 #maincontent {
 	float:none;
