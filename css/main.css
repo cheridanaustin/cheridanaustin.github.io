@@ -87,7 +87,6 @@ section#header {
       display: block;
       text-align: center;
     }
-  
   #eev {
   	float: none;
   }
@@ -108,6 +107,7 @@ section#header {
   h2 {
     font-size: 1em; 
     display: inline;
+    float: none;
   }
   p, ul {
     margin: 1.8em .6em 0;
