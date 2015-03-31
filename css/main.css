@@ -87,6 +87,9 @@ section#header {
       display: block;
       text-align: center;
     }
+  nav {
+    float: none;
+  }	
   nav a {
     margin: 0 1em 1em;
   }
@@ -96,10 +99,6 @@ section#header {
   section, div {
     width: 100%;
     padding: .6em;
-  }
-  #services {
-    float: none; 
-    font-size: 1.4 em;
   }
   h2 {
     font-size: 1em; 
